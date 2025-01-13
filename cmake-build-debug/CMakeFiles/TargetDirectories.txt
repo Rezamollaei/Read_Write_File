@@ -1,0 +1,3 @@
+/home/reza/Documents/C/third_lecture/cmake-build-debug/CMakeFiles/third_lecture.dir
+/home/reza/Documents/C/third_lecture/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reza/Documents/C/third_lecture/cmake-build-debug/CMakeFiles/rebuild_cache.dir
